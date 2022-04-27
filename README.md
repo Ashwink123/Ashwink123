@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ashwin Krishnan
-- 👀 I’m interested in ... Data Science ,Machine Learning
-- 🌱 I’m currently learning ... Machine Learning for R
+- 👀 I’m interested in ... Data Science ,Machine Learning 7 AI
+- 🌱 I’m currently learning ... R , Matlab & Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... instagram: @ash54.__  & ashwinkrishnan54"gmail.com
+- 📫 How to reach me ... instagram: @ash54.__  & ashwinkrishnan54@gmail.com
 
 <!---
 Ashwink123/Ashwink123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
