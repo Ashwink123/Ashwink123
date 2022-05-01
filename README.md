@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashwin Krishnan
-- 👀 I’m interested in ... Data Science ,Machine Learning 7 AI
+- 👀 I’m interested in ... Data Science ,Machine Learning & AI
 - 🌱 I’m currently learning ... R , Matlab & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... instagram: @ash54.__  & ashwinkrishnan54@gmail.com
