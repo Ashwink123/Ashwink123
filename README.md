@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Ashwin Krishnan, a passionate nerd with a love for technology and coding. This is my GitHub playground where I showcase my projects, collaborate with others, and explore new ideas.<br><br>About Me<br>Profession: Data Scientist<br>Interests: Dirt Biking & Drinking lots of Chai<br>Skills: Python for ML/AI/LLM OPS, Python for Predictive Modelling, PySpark,  SQL & No-SQL, MERN Stack, Julia, Golang & a little bit of AWS <br>Goals: My Goal is to keep trying to improve and upskill myself with new technologies.  
+Hello there! 👋 I'm Ashwin Krishnan, a passionate nerd with a love for technology and coding. This is my GitHub playground where I showcase my projects, collaborate with others, and explore new ideas.<br><br>About Me<br>Profession: Data Scientist<br>Interests: Dirt Biking & Drinking lots of Chai<br>Skills: Python for ML/AI/LLM OPS & Predictive Modelling, PySpark,  SQL & No-SQL, MERN Stack, Julia, Golang & a little bit of AWS <br>Goals: My Goal is to keep trying to improve and upskill myself with new technologies.  
 
 
 ## 🌐 Socials:
