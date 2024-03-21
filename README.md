@@ -32,7 +32,14 @@ src="https://img.shields.io/github/followers/Ashwink123?logo=github&style=for-th
 
 ### Databases
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
+
+### Big Data
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="INSERT_HIVE_LOGO_URL_HERE" width="36" height="36" alt="Hive" /></a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="INSERT_HADOOP_LOGO_URL_HERE" width="36" height="36" alt="Hadoop" /></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="INSERT_PYSPARK_LOGO_URL_HERE" width="36" height="36" alt="PySpark" /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="INSERT_KAFKA_LOGO_URL_HERE" width="36" height="36" alt="Kafka" /></a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="INSERT_AIRFLOW_LOGO_URL_HERE" width="36" height="36" alt="Airflow" /></a>
 
 ### Tools & Technologies
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -43,11 +50,7 @@ src="https://img.shields.io/github/followers/Ashwink123?logo=github&style=for-th
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-
-### Hardware
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcran
 
 
 
